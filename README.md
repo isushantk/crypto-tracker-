@@ -15,9 +15,4 @@
 </li>
 
 
-## Contact-Info
-
-<a href="https://www.linkedin.com/in/aashish-gangwar/"> LinkedIn </a>
-
-Email: aashishgangwar2003@gmail.com
 
